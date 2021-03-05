@@ -1,8 +1,6 @@
 <h1 align="center">Konnichiwa 👋, I'm Aldrei or you can call me Kim</h1>
 <h3 align="center">A passionate and aspiring full stack developer from Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suichinagi" alt="suichinagi" /></a> </p>
-
 - 🌱 I’m currently learning **React, Sass and TypeScript**
 
 - 👯 I’m looking to collaborate **with other content creator**
