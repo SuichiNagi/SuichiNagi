@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **React**
 
-👯 I’m looking to collaborate **with other content creator**
+👯 I’m looking to collaborate **with other Developer**
 
 🤝 I’m looking for help **with React Documentation**
 
