@@ -1,17 +1,17 @@
 <h1 align="center">Konnichiwa 👋, I'm Aldrei or you can call me Kim</h1>
 <h3 align="center">A passionate and aspiring Front End Developer from Philippines</h3>
 
-- 🌱 I’m currently learning **React**
+🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate **with other content creator**
+👯 I’m looking to collaborate **with other content creator**
 
-- 🤝 I’m looking for help **with React Documentation**
+🤝 I’m looking for help **with React Documentation**
 
-- 👨‍💻 All of my projects are available at [https://suichinagi.github.io/my-portfolio/](https://suichinagi.github.io/my-portfolio/)
+👨‍💻 All of my projects are available at [https://suichinagi.github.io/my-portfolio/](https://suichinagi.github.io/my-portfolio/)
 
-- 📫 How to reach me **aldreiglennkim@gmail.com**
+📫 How to reach me **aldreiglennkim@gmail.com**
 
-- ⚡ Fun fact **I love to draw, playing drums and edit videos**
+⚡ Fun fact **I love to draw, playing drums and edit videos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +25,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suichinagi&show_icons=true&locale=en&layout=compact" alt="suichinagi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suichinagi&show_icons=true&locale=en" alt="suichinagi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suichinagi&show_icons=true&locale=en" alt="suichinagi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suichinagi&" alt="suichinagi" /></p>
