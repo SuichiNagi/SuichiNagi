@@ -1,11 +1,13 @@
 <h1 align="center">Konnichiwa 👋, I'm Aldrei or you can call me Kim</h1>
 <h3 align="center">A passionate and aspiring full stack developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suichinagi&label=Profile%20views&color=0e75b6&style=flat" alt="suichinagi" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suichinagi" alt="suichinagi" /></a> </p>
 
 - 🌱 I’m currently learning **React, Sass and TypeScript**
+
+- 👯 I’m looking to collaborate **with other content creator**
+
+- 🤝 I’m looking for help **with React Documentation**
 
 - 👨‍💻 All of my projects are available at [https://suichinagi.github.io/my-portfolio/](https://suichinagi.github.io/my-portfolio/)
 
@@ -15,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aldrei-glenn-nuqui-a1b963206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aldrei-glenn-nuqui-a1b963206/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aldreiglenn.nuqui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/aldreiglenn.nuqui" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/drei_nagi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/drei_nagi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aldrei-glenn-nuqui-a1b963206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aldrei-glenn-nuqui-a1b963206" height="30" width="40" /></a>
+<a href="https://fb.com/aldreiglenn.nuqui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aldreiglenn.nuqui" height="30" width="40" /></a>
+<a href="https://instagram.com/drei_nagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="drei_nagi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
