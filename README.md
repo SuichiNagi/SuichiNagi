@@ -29,6 +29,9 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 &nbsp;  
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc"/> </a></p>
+&nbsp;  
+<a href="https://tailwindcss.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  alt="tailwind css" width="40" height="40"/> </a></p>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suichinagi&theme=radical&show_icons=true&locale=en&layout=compact" alt="suichinagi" /></p>
