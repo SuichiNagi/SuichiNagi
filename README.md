@@ -31,7 +31,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc"/> </a></p>
 &nbsp;  
 <a href="https://tailwindcss.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  alt="tailwind css" width="40" height="40"/> </a></p> 
-<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://i.pinimg.com/474x/f3/8a/5f/f38a5f7ca54e2d37a1b4f9818d9c8a6e.jpg"  alt="Xcode" width="40" height="40"/> </a></p> 
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"  alt="Xcode" width="40" height="40"/> </a></p> 
 
 
 
