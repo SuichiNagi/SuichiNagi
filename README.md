@@ -7,8 +7,6 @@
 
 🤝 I’m looking for help **with Swift and SwiftUI Documentation**
 
-📫 How to reach me **aldreiglennkim@gmail.com**
-
 ⚡ Fun fact **I love to draw, playing drums and edit videos**
 
 <h3 align="left">Connect with me:</h3>
