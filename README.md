@@ -1,11 +1,7 @@
 <h1 align="center">Konnichiwa 👋, I'm Aldrei or you can call me Kim</h1>
 <h3 align="center">A passionate iOS Developer from Philippines</h3>
 
-🌱 I’m currently learning **SwiftUI**
-
 👯 I’m looking to collaborate **with other Developer**
-
-🤝 I’m looking for help **with Swift and SwiftUI Documentation**
 
 ⚡ Fun fact **I love to draw, playing drums and edit videos**
 
